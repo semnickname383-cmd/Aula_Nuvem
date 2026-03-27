@@ -1,0 +1,2 @@
+commando para rodar esse servidor:
+npm  start
